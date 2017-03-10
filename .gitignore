@@ -36,3 +36,4 @@ nbdist/
 # End of https://www.gitignore.io/api/java,netbeans
 
 target/
+src/main/java/burp/I*
